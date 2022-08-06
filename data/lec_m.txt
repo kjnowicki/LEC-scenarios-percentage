@@ -1,0 +1,16 @@
+fnc-g2
+bds-msf
+vit-sk
+rog-xl
+fnc-ast
+mad-g2
+bds-rog
+sk-xl
+mad-ast
+vit-fnc
+msf-g2
+xl-ast
+bds-mad
+sk-g2
+vit-rog
+msf-fnc

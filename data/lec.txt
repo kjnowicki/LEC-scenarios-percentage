@@ -1,0 +1,10 @@
+mad 10-5
+rog 9-6
+vit 9-6
+g2 8-6
+msf 9-6
+xl 7-8
+fnc 7-7
+ast 7-8
+sk 6-9
+bds 2-13
